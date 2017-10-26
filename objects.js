@@ -1,5 +1,6 @@
 var playlist = {
   badSuns: "Heart Breaker",
+  'Kanye': "Gold Digger",
   }
 
 function updatePlaylist(playlist, artistName, songTitle){
